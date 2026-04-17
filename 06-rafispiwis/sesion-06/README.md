@@ -2,7 +2,7 @@
 
 #apuntes p5
 
-´´´ js
+``` js
 function setup() {
   createCanvas(windowWidth, windowHeight);
 }
@@ -27,4 +27,4 @@ function draw() {
   
   noCursor()
 }
-´´´
+```
